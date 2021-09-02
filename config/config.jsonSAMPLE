@@ -1,7 +1,7 @@
 {
-	"EventHubsNamespace": "",
-	"EventHubsHubName": "",
-	"DeviceName": "",
-	"EventHubsKeyName": "",
-	"EventHubsKey": ""
+	"EventHubsNamespace": "tinah-eventhubs1",
+	"EventHubsHubName": "tinah-eventhubs1-eventhub1",
+	"DeviceName": "testclient",
+	"EventHubsKeyName": "fullaccess",
+	"EventHubsKey": "mysecretkey="
 }
