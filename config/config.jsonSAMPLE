@@ -3,5 +3,5 @@
 	"EventHubsHubName": "tinah-eventhubs1-eventhub1",
 	"DeviceName": "testclient",
 	"EventHubsKeyName": "fullaccess",
-	"EventHubsKey": "mysecretkey="
+	"EventHubsKey": "mysecretkey=Endpoint=sb://tinah-eventhubs1.servicebus.windows.net/;SharedAccessKeyName=fullaccess;SharedAccessKey=1ycr+F5cihJMdUnt4o7LyP1n3YbffHaJKlija+Y8Vqg=;EntityPath=tinah-eventhubs1-eventhub1"
 }
